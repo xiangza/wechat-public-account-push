@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '武林权',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oXqBw6TcMz6okR97K9zczgBWhI_c',
+      id: 'oXqBw6VqLV--mVlAlPpPemAtrE3g',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'DCiQxj0A_w9ZiZw4nqkdCsXB8KFAyDaWnmIQ9mvSq0Q',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -49,9 +49,9 @@ const USER_CONFIG = {
     },
     {
       // 想要发送的人的名字
-      name: '武林权',
+      name: '郭涛',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oXqBw6aU5mKtWrNBoF_X43AImITg',
+      id: 'oXqBw6W90IvU6xKlh649QlilQa4k',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'DCiQxj0A_w9ZiZw4nqkdCsXB8KFAyDaWnmIQ9mvSq0Q',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -81,7 +81,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'DCiQxj0A_w9ZiZw4nqkdCsXB8KFAyDaWnmIQ9mvSq0Q',
+  CALLBACK_TEMPLATE_ID: 'hMcBgCkmMOvlmL_dRIOxX7l8HEjkvSE0PfqzGC6Tueg',
 
   CALLBACK_USERS: [
     {
