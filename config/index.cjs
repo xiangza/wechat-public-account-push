@@ -29,14 +29,14 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '武林权', year: '2002', date: '02-22',
+          type: '*生日', name: '武林权', year: '2002', date: '03-22',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '郭涛', year: '2002', date: '09-31',
+          type: '生日', name: '郭涛', year: '2002', date: '07-11',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2020', date: '07-11',
+          type: '节日', name: '相恋纪念日', year: '2021', date: '11-16',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
